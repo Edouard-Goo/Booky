@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "6552358671789dec97e0065d"
+  },
+  "username": "eddie3353",
+  "email": "edouard.gooda@gmail.com",
+  "age": 31,
+  "password": "$2b$10$PJ1dNbpplzdnGScDUn2rw.1EBaW7SfIZ7NoE.ecRw4i.yxf1C85de",
+  "role": "Admin",
+  "wishList": [],
+  "booksRead": [
+    "65609d7002d58af3db7a3c3a"
+  ],
+  "inProgressBooks": [],
+  "createdAt": {
+    "$date": "2023-11-13T14:41:10.436Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-13T14:41:10.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6553701c87ec08b74ea1d97e"
+  },
+  "username": "gooda30",
+  "email": "edouardgouda33@gmail.com",
+  "age": 33,
+  "password": "$2b$10$zUuy7BmByuUoCWF3OaWajel3gM9IWZ2rYBGlkfw7uS4ywH0Efj5XC",
+  "role": "User",
+  "wishList": [],
+  "booksRead": [],
+  "inProgressBooks": [],
+  "createdAt": {
+    "$date": "2023-11-14T13:03:24.260Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-14T13:03:24.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "656251568cd4ed8dd4574ece"
+  },
+  "username": "edouard",
+  "email": "edouard@gmail.com",
+  "age": 55,
+  "password": "$2b$10$r6JpphJWRk8kB6yc/Giii.MRqQyaKSV7XYbzsTOHwU3o5mI6tn2gO",
+  "role": "User",
+  "wishList": [],
+  "booksRead": [],
+  "inProgressBooks": [],
+  "createdAt": {
+    "$date": "2023-11-25T19:56:06.025Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-25T19:56:06.025Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6563676bcf1970ef6250d614"
+  },
+  "username": "guillaume",
+  "email": "guillaume@gmail.com",
+  "age": 40,
+  "password": "$2b$10$tqyT1Kv9gOQKq.rym1URHef..YkZ0FIKO4EsvjWHTFMLBLEW9E3NW",
+  "role": "User",
+  "wishList": [],
+  "booksRead": [],
+  "inProgressBooks": [],
+  "createdAt": {
+    "$date": "2023-11-26T15:42:35.850Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-26T15:42:35.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65636b37cf1970ef6250d617"
+  },
+  "username": "rabab",
+  "email": "rabab@gmail.com",
+  "age": 25,
+  "password": "$2b$10$gWjm0ictR8PyuKN7XcFfROMlBGeOHYBELtrYgjcVbiQdOG8aOZcdG",
+  "role": "User",
+  "wishList": [],
+  "booksRead": [],
+  "inProgressBooks": [],
+  "createdAt": {
+    "$date": "2023-11-26T15:58:47.770Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-26T15:58:47.770Z"
+  },
+  "__v": 0
+}]

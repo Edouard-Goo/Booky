@@ -1,0 +1,863 @@
+[{
+  "_id": {
+    "$oid": "652fe8410cc146e009067ebc"
+  },
+  "title": "alchemy",
+  "mini_description": "\r\nfinibus ex tellus, eget cursus tellus ultrices ut. sed \r\ncommodo lacus orci, vel interdum massa facilisis vel. ut \r\nlacinia finibus mauris et aliquam. ut vitae augue ac \r\nsapien rhoncus consequat. phasellus cursus ut arcu quis \r\nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \r\narcu lacus, eu eleifend massa mattis ac. vestibulum \r\nelementum, sem ut mollis tincidunt, nulla felis egestas \r\nnunc, id tempor justo sapien facilisis odio. aenean \r\nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [
+    3,
+    5,
+    4,
+    4,
+    3,
+    4,
+    5,
+    4,
+    5,
+    5,
+    3,
+    5,
+    5,
+    5,
+    5,
+    4,
+    3,
+    3,
+    4,
+    5,
+    2,
+    4,
+    5,
+    3,
+    1,
+    3,
+    5,
+    3,
+    5
+  ],
+  "pdfFile": "1697656491742-alchemy.pdf",
+  "category": "",
+  "author": "patrick keegan",
+  "date": {
+    "$date": "2023-11-22T19:05:02.943Z"
+  },
+  "publish_year": "2006",
+  "image": "1697656491744-alchemy-S-F.png",
+  "comments": [
+    {
+      "pseudo": "eddie",
+      "comment": "it's a good book",
+      "date": {
+        "$date": "2023-11-17T20:30:12.155Z"
+      },
+      "_id": {
+        "$oid": "6557cd543d1db283dbddce67"
+      }
+    },
+    {
+      "pseudo": "eddie",
+      "comment": "it's a good book",
+      "date": {
+        "$date": "2023-11-17T20:30:35.692Z"
+      },
+      "_id": {
+        "$oid": "6557cd6b3d1db283dbddce73"
+      }
+    },
+    {
+      "pseudo": "eddie",
+      "comment": "it's a good book",
+      "date": {
+        "$date": "2023-11-17T20:31:11.623Z"
+      },
+      "_id": {
+        "$oid": "6557cd8f3d1db283dbddce7c"
+      }
+    },
+    {
+      "pseudo": "eddie",
+      "comment": "it's a good book",
+      "date": {
+        "$date": "2023-11-17T20:31:20.876Z"
+      },
+      "_id": {
+        "$oid": "6557cd983d1db283dbddce86"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-10-18T14:14:25.709Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-25T18:31:51.744Z"
+  },
+  "__v": 0,
+  "pages": 712
+},
+{
+  "_id": {
+    "$oid": "652fe8900cc146e009067ebe"
+  },
+  "title": "barcelone",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \nluctus. aliquam sit amet eros eu ligula bibendum \nvestibulum. donec non turpis elit. vestibulum at arcu sit \namet velit dictum posuere vel eget tellus. donec nec \nmolestie nisi. integer finibus quis ante eget placerat. \naliquam varius viverra nisi.\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \nfinibus ex tellus, eget cursus tellus ultrices ut. sed \ncommodo lacus orci, vel interdum massa facilisis vel. ut \nlacinia finibus mauris et aliquam. ut vitae augue ac \nsapien rhoncus consequat. phasellus cursus ut arcu quis \nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \narcu lacus, eu eleifend massa mattis ac. vestibulum \nelementum, sem ut mollis tincidunt, nulla felis egestas \nnunc, id tempor justo sapien facilisis odio. aenean \nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [],
+  "pdfFile": "1697656545916-barcelone.pdf",
+  "category": "non-fiction",
+  "author": "émile prévost",
+  "date": {
+    "$date": "2023-10-18T14:15:44.617Z"
+  },
+  "publish_year": "2003",
+  "image": "1697656545929-barcelone-S.png",
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-10-18T14:15:44.618Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T14:15:44.618Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fe8e70cc146e009067ec0"
+  },
+  "title": "conquest of flames",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \nluctus. aliquam sit amet eros eu ligula bibendum \nvestibulum. donec non turpis elit. vestibulum at arcu sit \namet velit dictum posuere vel eget tellus. donec nec \nmolestie nisi. integer finibus quis ante eget placerat. \naliquam varius viverra nisi.\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \nfinibus ex tellus, eget cursus tellus ultrices ut. sed \ncommodo lacus orci, vel interdum massa facilisis vel. ut \nlacinia finibus mauris et aliquam. ut vitae augue ac \nsapien rhoncus consequat. phasellus cursus ut arcu quis \nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \narcu lacus, eu eleifend massa mattis ac. vestibulum \nelementum, sem ut mollis tincidunt, nulla felis egestas \nnunc, id tempor justo sapien facilisis odio. aenean \nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [],
+  "pdfFile": "1698347723968-conquest_of_flames.pdf",
+  "category": "fiction",
+  "author": "shawn garcia",
+  "date": {
+    "$date": "2023-10-18T14:17:11.153Z"
+  },
+  "publish_year": "2023",
+  "image": "1698347723965-conquest-of-flames-S-F.png",
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-10-18T14:17:11.154Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T17:45:45.943Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fe92b0cc146e009067ec2"
+  },
+  "title": "crow",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \nluctus. aliquam sit amet eros eu ligula bibendum \nvestibulum. donec non turpis elit. vestibulum at arcu sit \namet velit dictum posuere vel eget tellus. donec nec \nmolestie nisi. integer finibus quis ante eget placerat. \naliquam varius viverra nisi.\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \nfinibus ex tellus, eget cursus tellus ultrices ut. sed \ncommodo lacus orci, vel interdum massa facilisis vel. ut \nlacinia finibus mauris et aliquam. ut vitae augue ac \nsapien rhoncus consequat. phasellus cursus ut arcu quis \nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \narcu lacus, eu eleifend massa mattis ac. vestibulum \nelementum, sem ut mollis tincidunt, nulla felis egestas \nnunc, id tempor justo sapien facilisis odio. aenean \nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [],
+  "pdfFile": "1697656667538-crow.pdf",
+  "category": "horror",
+  "author": "olivia wilson",
+  "date": {
+    "$date": "2023-10-18T14:18:19.565Z"
+  },
+  "publish_year": "2017",
+  "image": "1697656667540-crow-S-H.png",
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-10-18T14:18:19.568Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T14:18:19.568Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fe9790cc146e009067ec4"
+  },
+  "title": "cybernetic stargazer",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \nluctus. aliquam sit amet eros eu ligula bibendum \nvestibulum. donec non turpis elit. vestibulum at arcu sit \namet velit dictum posuere vel eget tellus. donec nec \nmolestie nisi. integer finibus quis ante eget placerat. \naliquam varius viverra nisi.\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \nfinibus ex tellus, eget cursus tellus ultrices ut. sed \ncommodo lacus orci, vel interdum massa facilisis vel. ut \nlacinia finibus mauris et aliquam. ut vitae augue ac \nsapien rhoncus consequat. phasellus cursus ut arcu quis \nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \narcu lacus, eu eleifend massa mattis ac. vestibulum \nelementum, sem ut mollis tincidunt, nulla felis egestas \nnunc, id tempor justo sapien facilisis odio. aenean \nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [],
+  "pdfFile": "1697656724742-cybernetic_stargazer.pdf",
+  "category": "fiction",
+  "author": "shawn garcia",
+  "date": {
+    "$date": "2023-10-18T14:19:37.780Z"
+  },
+  "publish_year": "2017",
+  "image": "1697656724745-cybernetic-stargazer-S-F.png",
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-10-18T14:19:37.781Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T19:18:52.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fe9a80cc146e009067ec6"
+  },
+  "title": "dynasty",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \nluctus. aliquam sit amet eros eu ligula bibendum \nvestibulum. donec non turpis elit. vestibulum at arcu sit \namet velit dictum posuere vel eget tellus. donec nec \nmolestie nisi. integer finibus quis ante eget placerat. \naliquam varius viverra nisi.\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \nfinibus ex tellus, eget cursus tellus ultrices ut. sed \ncommodo lacus orci, vel interdum massa facilisis vel. ut \nlacinia finibus mauris et aliquam. ut vitae augue ac \nsapien rhoncus consequat. phasellus cursus ut arcu quis \nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \narcu lacus, eu eleifend massa mattis ac. vestibulum \nelementum, sem ut mollis tincidunt, nulla felis egestas \nnunc, id tempor justo sapien facilisis odio. aenean \nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [],
+  "pdfFile": "1697656756922-dynasty.pdf",
+  "category": "fiction",
+  "author": "olivia wilson",
+  "date": {
+    "$date": "2023-10-18T14:20:24.628Z"
+  },
+  "publish_year": "2012",
+  "image": "1697656757222-dynasty-S-F.png",
+  "comments": [
+    {
+      "pseudo": "edouard",
+      "comment": "jkdslqgherfvfd",
+      "date": {
+        "$date": "2023-11-27T16:28:41.329Z"
+      },
+      "_id": {
+        "$oid": "6564c3b93aa6967e616421c3"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-10-18T14:20:24.629Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-27T16:29:08.063Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fea410cc146e009067ec8"
+  },
+  "title": "femmes du silence",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \nluctus. aliquam sit amet eros eu ligula bibendum \nvestibulum. donec non turpis elit. vestibulum at arcu sit \namet velit dictum posuere vel eget tellus. donec nec \nmolestie nisi. integer finibus quis ante eget placerat. \naliquam varius viverra nisi.\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \nfinibus ex tellus, eget cursus tellus ultrices ut. sed \ncommodo lacus orci, vel interdum massa facilisis vel. ut \nlacinia finibus mauris et aliquam. ut vitae augue ac \nsapien rhoncus consequat. phasellus cursus ut arcu quis \nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \narcu lacus, eu eleifend massa mattis ac. vestibulum \nelementum, sem ut mollis tincidunt, nulla felis egestas \nnunc, id tempor justo sapien facilisis odio. aenean \nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [],
+  "pdfFile": "1697656814483-femmes_du_silence.pdf",
+  "category": "romance",
+  "author": "béatrice dumont",
+  "date": {
+    "$date": "2023-10-18T14:22:57.939Z"
+  },
+  "publish_year": "2013",
+  "image": "1697656814485-femme-de-silence-S-R.png",
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-10-18T14:22:57.940Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T14:22:57.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652feaa10cc146e009067eca"
+  },
+  "title": "how to improve your business",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \nluctus. aliquam sit amet eros eu ligula bibendum \nvestibulum. donec non turpis elit. vestibulum at arcu sit \namet velit dictum posuere vel eget tellus. donec nec \nmolestie nisi. integer finibus quis ante eget placerat. \naliquam varius viverra nisi.\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \nfinibus ex tellus, eget cursus tellus ultrices ut. sed \ncommodo lacus orci, vel interdum massa facilisis vel. ut \nlacinia finibus mauris et aliquam. ut vitae augue ac \nsapien rhoncus consequat. phasellus cursus ut arcu quis \nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \narcu lacus, eu eleifend massa mattis ac. vestibulum \nelementum, sem ut mollis tincidunt, nulla felis egestas \nnunc, id tempor justo sapien facilisis odio. aenean \nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [],
+  "pdfFile": "1697656869814-how_to_improve_your_business.pdf",
+  "category": "motivational",
+  "author": "marceline anderson",
+  "date": {
+    "$date": "2023-10-18T14:24:33.585Z"
+  },
+  "publish_year": "2010",
+  "image": "1697656870140-how-to-improve-your-business-S-Motiv.png",
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-10-18T14:24:33.586Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T14:24:33.586Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652feb420cc146e009067ecc"
+  },
+  "title": "in the woods",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \nluctus. aliquam sit amet eros eu ligula bibendum \nvestibulum. donec non turpis elit. vestibulum at arcu sit \namet velit dictum posuere vel eget tellus. donec nec \nmolestie nisi. integer finibus quis ante eget placerat. \naliquam varius viverra nisi.\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \nfinibus ex tellus, eget cursus tellus ultrices ut. sed \ncommodo lacus orci, vel interdum massa facilisis vel. ut \nlacinia finibus mauris et aliquam. ut vitae augue ac \nsapien rhoncus consequat. phasellus cursus ut arcu quis \nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \narcu lacus, eu eleifend massa mattis ac. vestibulum \nelementum, sem ut mollis tincidunt, nulla felis egestas \nnunc, id tempor justo sapien facilisis odio. aenean \nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [],
+  "pdfFile": "1697656931939-in_the_woods.pdf",
+  "category": "horror",
+  "author": "olivia wilson",
+  "date": {
+    "$date": "2023-10-18T14:27:14.687Z"
+  },
+  "publish_year": "2012",
+  "image": "1697656931940-in-the-woods-S-H.png",
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-10-18T14:27:14.688Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T14:27:14.688Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652feb960cc146e009067ece"
+  },
+  "title": "in your eyes",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \r\nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \r\nluctus. aliquam sit amet eros eu ligula bibendum \r\nvestibulum. donec non turpis elit. vestibulum at arcu sit \r\namet velit dictum posuere vel eget tellus. donec nec \r\nmolestie nisi. integer finibus quis ante eget placerat. \r\naliquam varius viverra nisi.\r\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \r\nfinibus ex tellus, eget cursus tellus ultrices ut. sed \r\ncommodo lacus orci, vel interdum massa facilisis vel. ut \r\nlacinia finibus mauris et aliquam. ut vitae augue ac \r\nsapien rhoncus consequat. phasellus cursus ut arcu quis \r\nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \r\narcu lacus, eu eleifend massa mattis ac. vestibulum \r\nelementum, sem ut mollis tincidunt, nulla felis egestas \r\nnunc, id tempor justo sapien facilisis odio. aenean \r\nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [],
+  "pdfFile": "1699888155323-in_your_eyes.pdf",
+  "category": "mystery",
+  "author": "",
+  "date": {
+    "$date": "2023-11-13T15:09:15.326Z"
+  },
+  "publish_year": "2013",
+  "image": "1699888155321-in-your-eyes-S-M.png",
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-10-18T14:28:38.260Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-13T15:09:15.328Z"
+  },
+  "__v": 0,
+  "pages": 72
+},
+{
+  "_id": {
+    "$oid": "652fec150cc146e009067ed2"
+  },
+  "title": "pencil",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \nluctus. aliquam sit amet eros eu ligula bibendum \nvestibulum. donec non turpis elit. vestibulum at arcu sit \namet velit dictum posuere vel eget tellus. donec nec \nmolestie nisi. integer finibus quis ante eget placerat. \naliquam varius viverra nisi.\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \nfinibus ex tellus, eget cursus tellus ultrices ut. sed \ncommodo lacus orci, vel interdum massa facilisis vel. ut \nlacinia finibus mauris et aliquam. ut vitae augue ac \nsapien rhoncus consequat. phasellus cursus ut arcu quis \nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \narcu lacus, eu eleifend massa mattis ac. vestibulum \nelementum, sem ut mollis tincidunt, nulla felis egestas \nnunc, id tempor justo sapien facilisis odio. aenean \nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [],
+  "pdfFile": "1697659954090-pencil.pdf",
+  "category": "mystery",
+  "author": "olivia wilson",
+  "date": {
+    "$date": "2023-10-18T14:30:45.022Z"
+  },
+  "publish_year": "2015",
+  "image": "1697659954100-pencil-S-M.png",
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-10-18T14:30:45.023Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T14:30:45.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fec750cc146e009067ed4"
+  },
+  "title": "quelque part",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \nluctus. aliquam sit amet eros eu ligula bibendum \nvestibulum. donec non turpis elit. vestibulum at arcu sit \namet velit dictum posuere vel eget tellus. donec nec \nmolestie nisi. integer finibus quis ante eget placerat. \naliquam varius viverra nisi.\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \nfinibus ex tellus, eget cursus tellus ultrices ut. sed \ncommodo lacus orci, vel interdum massa facilisis vel. ut \nlacinia finibus mauris et aliquam. ut vitae augue ac \nsapien rhoncus consequat. phasellus cursus ut arcu quis \nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \narcu lacus, eu eleifend massa mattis ac. vestibulum \nelementum, sem ut mollis tincidunt, nulla felis egestas \nnunc, id tempor justo sapien facilisis odio. aenean \nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [],
+  "pdfFile": "1697660278506-quelque_part.pdf",
+  "category": "motivational",
+  "author": "william anderson",
+  "date": {
+    "$date": "2023-10-18T14:32:21.679Z"
+  },
+  "publish_year": "2009",
+  "image": "1697660278513-quelque-part-S-Motiv.png",
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-10-18T14:32:21.680Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T14:32:21.680Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fecac0cc146e009067ed6"
+  },
+  "title": "ranch",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \nluctus. aliquam sit amet eros eu ligula bibendum \nvestibulum. donec non turpis elit. vestibulum at arcu sit \namet velit dictum posuere vel eget tellus. donec nec \nmolestie nisi. integer finibus quis ante eget placerat. \naliquam varius viverra nisi.\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \nfinibus ex tellus, eget cursus tellus ultrices ut. sed \ncommodo lacus orci, vel interdum massa facilisis vel. ut \nlacinia finibus mauris et aliquam. ut vitae augue ac \nsapien rhoncus consequat. phasellus cursus ut arcu quis \nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \narcu lacus, eu eleifend massa mattis ac. vestibulum \nelementum, sem ut mollis tincidunt, nulla felis egestas \nnunc, id tempor justo sapien facilisis odio. aenean \nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [],
+  "pdfFile": "1697656985808-ranch.pdf",
+  "category": "horror",
+  "author": "olivia wilson",
+  "date": {
+    "$date": "2023-10-18T14:33:16.002Z"
+  },
+  "publish_year": "2019",
+  "image": "1697656986144-ranch-S-H.png",
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-10-18T14:33:16.003Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T14:33:16.003Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fece10cc146e009067ed8"
+  },
+  "title": "roman",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \nluctus. aliquam sit amet eros eu ligula bibendum \nvestibulum. donec non turpis elit. vestibulum at arcu sit \namet velit dictum posuere vel eget tellus. donec nec \nmolestie nisi. integer finibus quis ante eget placerat. \naliquam varius viverra nisi.\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \nfinibus ex tellus, eget cursus tellus ultrices ut. sed \ncommodo lacus orci, vel interdum massa facilisis vel. ut \nlacinia finibus mauris et aliquam. ut vitae augue ac \nsapien rhoncus consequat. phasellus cursus ut arcu quis \nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \narcu lacus, eu eleifend massa mattis ac. vestibulum \nelementum, sem ut mollis tincidunt, nulla felis egestas \nnunc, id tempor justo sapien facilisis odio. aenean \nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [],
+  "pdfFile": "1697660015221-roman.pdf",
+  "category": "mystery",
+  "author": "olivia wilson",
+  "date": {
+    "$date": "2023-10-18T14:34:09.548Z"
+  },
+  "publish_year": "2020",
+  "image": "1697660015226-roman-S-M.png",
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-10-18T14:34:09.549Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T14:34:09.549Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fed0e0cc146e009067eda"
+  },
+  "title": "spear",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \nluctus. aliquam sit amet eros eu ligula bibendum \nvestibulum. donec non turpis elit. vestibulum at arcu sit \namet velit dictum posuere vel eget tellus. donec nec \nmolestie nisi. integer finibus quis ante eget placerat. \naliquam varius viverra nisi.\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \nfinibus ex tellus, eget cursus tellus ultrices ut. sed \ncommodo lacus orci, vel interdum massa facilisis vel. ut \nlacinia finibus mauris et aliquam. ut vitae augue ac \nsapien rhoncus consequat. phasellus cursus ut arcu quis \nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \narcu lacus, eu eleifend massa mattis ac. vestibulum \nelementum, sem ut mollis tincidunt, nulla felis egestas \nnunc, id tempor justo sapien facilisis odio. aenean \nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [],
+  "pdfFile": "1697660092329-spear.pdf",
+  "category": "mystery",
+  "author": "neil tran",
+  "date": {
+    "$date": "2023-10-18T14:34:54.253Z"
+  },
+  "publish_year": "2021",
+  "image": "1697660092337-spear-S-M.png",
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-10-18T14:34:54.254Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T14:34:54.254Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fed3e0cc146e009067edc"
+  },
+  "title": "thread",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \nluctus. aliquam sit amet eros eu ligula bibendum \nvestibulum. donec non turpis elit. vestibulum at arcu sit \namet velit dictum posuere vel eget tellus. donec nec \nmolestie nisi. integer finibus quis ante eget placerat. \naliquam varius viverra nisi.\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \nfinibus ex tellus, eget cursus tellus ultrices ut. sed \ncommodo lacus orci, vel interdum massa facilisis vel. ut \nlacinia finibus mauris et aliquam. ut vitae augue ac \nsapien rhoncus consequat. phasellus cursus ut arcu quis \nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \narcu lacus, eu eleifend massa mattis ac. vestibulum \nelementum, sem ut mollis tincidunt, nulla felis egestas \nnunc, id tempor justo sapien facilisis odio. aenean \nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [],
+  "pdfFile": "1697660147929-thread.pdf",
+  "category": "mystery",
+  "author": "olivia wilson",
+  "date": {
+    "$date": "2023-10-18T14:35:42.048Z"
+  },
+  "publish_year": "2012",
+  "image": "1697660147933-thread-S-M.png",
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-10-18T14:35:42.049Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T14:35:42.049Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fed8b0cc146e009067ede"
+  },
+  "title": "time",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \nluctus. aliquam sit amet eros eu ligula bibendum \nvestibulum. donec non turpis elit. vestibulum at arcu sit \namet velit dictum posuere vel eget tellus. donec nec \nmolestie nisi. integer finibus quis ante eget placerat. \naliquam varius viverra nisi.\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \nfinibus ex tellus, eget cursus tellus ultrices ut. sed \ncommodo lacus orci, vel interdum massa facilisis vel. ut \nlacinia finibus mauris et aliquam. ut vitae augue ac \nsapien rhoncus consequat. phasellus cursus ut arcu quis \nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \narcu lacus, eu eleifend massa mattis ac. vestibulum \nelementum, sem ut mollis tincidunt, nulla felis egestas \nnunc, id tempor justo sapien facilisis odio. aenean \nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [
+    5
+  ],
+  "pdfFile": "1697660202338-time.pdf",
+  "category": "mystery",
+  "author": "olivia wilson",
+  "date": {
+    "$date": "2023-10-18T14:36:59.235Z"
+  },
+  "publish_year": "2022",
+  "image": "1697660202344-time-S-M.png",
+  "comments": [
+    {
+      "pseudo": "edouard",
+      "comment": "great great ",
+      "date": {
+        "$date": "2023-11-26T18:34:54.646Z"
+      },
+      "_id": {
+        "$oid": "65638fce753dd22b8466ece4"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-10-18T14:36:59.235Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-26T18:34:54.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "652fee8a0cc146e009067ee4"
+  },
+  "title": "love",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \nluctus. aliquam sit amet eros eu ligula bibendum \nvestibulum. donec non turpis elit. vestibulum at arcu sit \namet velit dictum posuere vel eget tellus. donec nec \nmolestie nisi. integer finibus quis ante eget placerat. \naliquam varius viverra nisi.\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \nfinibus ex tellus, eget cursus tellus ultrices ut. sed \ncommodo lacus orci, vel interdum massa facilisis vel. ut \nlacinia finibus mauris et aliquam. ut vitae augue ac \nsapien rhoncus consequat. phasellus cursus ut arcu quis \nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \narcu lacus, eu eleifend massa mattis ac. vestibulum \nelementum, sem ut mollis tincidunt, nulla felis egestas \nnunc, id tempor justo sapien facilisis odio. aenean \nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [],
+  "pdfFile": "1697655902436-love.pdf",
+  "category": "romance",
+  "author": "olivia wilson",
+  "date": {
+    "$date": "2023-10-18T14:41:14.900Z"
+  },
+  "publish_year": "2008",
+  "image": "1697655902437-love-S-R.png",
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-10-18T14:41:14.901Z"
+  },
+  "updatedAt": {
+    "$date": "2023-10-18T14:41:14.901Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655240de71789dec97e3bef2"
+  },
+  "title": "dans nos os",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \r\nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \r\nluctus. aliquam sit amet eros eu ligula bibendum \r\nvestibulum. donec non turpis elit. vestibulum at arcu sit \r\namet velit dictum posuere vel eget tellus. donec nec \r\nmolestie nisi. integer finibus quis ante eget placerat. \r\naliquam varius viverra nisi.\r\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \r\nfinibus ex tellus, eget cursus tellus ultrices ut.",
+  "pdfFile": "1699889374230-dans_nos_os.pdf",
+  "category": "fiction",
+  "author": "alain dumont",
+  "date": {
+    "$date": "2023-11-13T15:29:34.242Z"
+  },
+  "publish_year": "2023",
+  "pages": 72,
+  "image": "1699889374227-dans_nos_os_S_R.png",
+  "notes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-11-13T15:29:34.249Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-13T15:29:34.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6555fbd732b0e4e0caeb611b"
+  },
+  "title": "cybernatic stargazer",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \r\nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \r\nluctus. aliquam sit amet eros eu ligula bibendum \r\nvestibulum. donec non turpis elit. vestibulum at arcu sit \r\namet velit dictum posuere vel eget tellus. donec nec \r\nmolestie nisi. integer finibus quis ante eget placerat. \r\naliquam varius viverra nisi.\r\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \r\nfinibus ex tellus, eget cursus tellus ultrices ut. sed \r\ncommodo lacus orci, vel interdum massa facilisis vel. ut \r\nlacinia finibus mauris et aliquam. ut vitae augue ac \r\nsapien rhoncus consequat. phasellus cursus ut arcu quis \r\nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \r\narcu lacus, eu eleifend massa mattis ac. vestibulum \r\nelementum, sem ut mollis tincidunt, nulla felis egestas \r\nnunc, id tempor justo sapien facilisis odio. aenean \r\nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "pdfFile": "1700133847563-cybernetic_stargazer.pdf",
+  "category": "fiction",
+  "author": "shawn garcia",
+  "date": {
+    "$date": "2023-11-16T11:24:07.572Z"
+  },
+  "publish_year": "2017",
+  "pages": 72,
+  "image": "1700133847560-cybernetic-stargazer-S-F.png",
+  "notes": [
+    3,
+    4,
+    3,
+    3
+  ],
+  "comments": [
+    {
+      "pseudo": "eddd",
+      "comment": "sghfgfiodshibnv  vufh vuh v vuio vhdfqumghu mfvu  ",
+      "date": {
+        "$date": "2023-11-26T17:29:30.191Z"
+      },
+      "_id": {
+        "$oid": "6563807ac49721b4dc64c47a"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-11-16T11:24:07.580Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-27T18:52:54.323Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f7636b05284961e410140"
+  },
+  "title": "thread",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \r\nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \r\nluctus. aliquam sit amet eros eu ligula bibendum \r\nvestibulum. donec non turpis elit. vestibulum at arcu sit \r\namet velit dictum posuere vel eget tellus. donec nec \r\nmolestie nisi. integer finibus quis ante eget placerat. \r\naliquam varius viverra nisi.\r\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \r\nfinibus ex tellus, eget cursus tellus ultrices ut. sed \r\ncommodo lacus orci, vel interdum massa facilisis vel. ut \r\nlacinia finibus mauris et aliquam. ut vitae augue ac \r\nsapien rhoncus consequat. phasellus cursus ut arcu quis \r\nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \r\narcu lacus, eu eleifend massa mattis ac. vestibulum \r\nelementum, sem ut mollis tincidunt, nulla felis egestas \r\nnunc, id tempor justo sapien facilisis odio. aenean \r\nimperdiet libero sit amet nunc finibus egestas vitae et",
+  "pdfFile": "1700754998243-thread.pdf",
+  "category": "mystery",
+  "author": "olivia wilson",
+  "date": {
+    "$date": "2023-11-23T15:56:38.259Z"
+  },
+  "publish_year": "2016",
+  "pages": 72,
+  "image": "1700754998239-thread-S-M.png",
+  "notes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-11-23T15:56:38.261Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-23T15:56:38.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f76e5b05284961e410146"
+  },
+  "title": "roman",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \r\nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \r\nluctus. aliquam sit amet eros eu ligula bibendum \r\nvestibulum. donec non turpis elit. vestibulum at arcu sit \r\namet velit dictum posuere vel eget tellus. donec nec \r\nmolestie nisi. integer finibus quis ante eget placerat. \r\naliquam varius viverra nisi.\r\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \r\nfinibus ex tellus, eget cursus tellus ultrices ut. sed \r\ncommodo lacus orci, vel interdum massa facilisis vel. ut \r\nlacinia finibus mauris et aliquam. ut vitae augue ac \r\nsapien rhoncus consequat. phasellus cursus ut arcu quis \r\nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \r\narcu lacus, eu eleifend massa mattis ac. vestibulum \r\nelementum, sem ut mollis tincidunt, nulla felis egestas \r\nnunc, id tempor justo sapien facilisis odio. aenean \r\nimperdiet libero sit amet nunc finibus egestas vitae et",
+  "pdfFile": "1700755173955-roman.pdf",
+  "category": "mystery",
+  "author": "olivia wilson",
+  "date": {
+    "$date": "2023-11-23T15:59:33.967Z"
+  },
+  "publish_year": "2015",
+  "pages": 7,
+  "image": "1700755173949-roman-S-M.png",
+  "notes": [
+    3
+  ],
+  "comments": [
+    {
+      "pseudo": "edd",
+      "comment": "fgnnstgjn,rts nt rsn srtr nsnr",
+      "date": {
+        "$date": "2023-11-25T20:44:43.207Z"
+      },
+      "_id": {
+        "$oid": "65625cbbb81cb00f6bfd5fa1"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-11-23T15:59:33.967Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-25T20:44:43.207Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "655f78d6b05284961e410148"
+  },
+  "title": "dynasty",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \r\nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \r\nluctus. aliquam sit amet eros eu ligula bibendum \r\nvestibulum. donec non turpis elit. vestibulum at arcu sit \r\namet velit dictum posuere vel eget tellus. donec nec \r\nmolestie nisi. integer finibus quis ante eget placerat. \r\naliquam varius viverra nisi.\r\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \r\nfinibus ex tellus, eget cursus tellus ultrices ut. sed \r\ncommodo lacus orci, vel interdum massa facilisis vel. ut \r\nlacinia finibus mauris et aliquam. ut vitae augue ac \r\nsapien rhoncus consequat. phasellus cursus ut arcu quis \r\nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \r\narcu lacus, eu eleifend massa mattis ac. vestibulum \r\nelementum, sem ut mollis tincidunt, nulla felis egestas \r\nnunc, id tempor justo sapien facilisis odio. aenean \r\nimperdiet libero sit amet nunc finibus egestas vitae et",
+  "pdfFile": "1700755670229-dynasty.pdf",
+  "category": "fantasy",
+  "author": "olivia wilson",
+  "date": {
+    "$date": "2023-11-23T16:07:50.241Z"
+  },
+  "publish_year": "2003",
+  "pages": 72,
+  "image": "1700755670226-dynasty-S-F.png",
+  "notes": [
+    4,
+    4,
+    3
+  ],
+  "comments": [
+    {
+      "pseudo": "edouard",
+      "comment": "good book",
+      "date": {
+        "$date": "2023-11-25T18:34:39.499Z"
+      },
+      "_id": {
+        "$oid": "65623e3fac79720061f7daf8"
+      }
+    },
+    {
+      "pseudo": "edd",
+      "comment": "interesting!",
+      "date": {
+        "$date": "2023-11-25T18:39:36.288Z"
+      },
+      "_id": {
+        "$oid": "65623f68ac79720061f7db35"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-11-23T16:07:50.242Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-25T19:31:16.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6565eee0bfbd3a7a8b37590f"
+  },
+  "title": "thread",
+  "mini_description": "spear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vne",
+  "notes": [],
+  "pdfFile": "1701179104825-thread.pdf",
+  "category": "horror",
+  "author": "patrick keegan",
+  "date": {
+    "$date": "2023-11-28T13:45:04.840Z"
+  },
+  "publish_year": "2000",
+  "pages": 160,
+  "image": "1701179104818-thread-S-M.png",
+  "userId": {
+    "$oid": "6563676bcf1970ef6250d614"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-11-28T13:45:04.842Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-28T13:45:04.842Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6565ef51bfbd3a7a8b375917"
+  },
+  "title": "dynasty",
+  "mini_description": "spear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vnespear jkldsfhdksjvb dsvb rbvubr rmeoui vne",
+  "notes": [],
+  "pdfFile": "1701179217006-dynasty.pdf",
+  "category": "horror",
+  "author": "olivia wilson",
+  "date": {
+    "$date": "2023-11-28T13:46:57.017Z"
+  },
+  "publish_year": "2001",
+  "pages": 100,
+  "image": "1701179216903-dynasty-S-F.png",
+  "userId": {
+    "$oid": "6563676bcf1970ef6250d614"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-11-28T13:46:57.017Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-28T13:46:57.017Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6566185e9c9727d2370a1140"
+  },
+  "title": "femme de silence",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \r\nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \r\nluctus. aliquam sit amet eros eu ligula bibendum \r\nvestibulum. donec non turpis elit. vestibulum at arcu sit \r\namet velit dictum posuere vel eget tellus. donec nec \r\nmolestie nisi. integer finibus quis ante eget placerat. \r\naliquam varius viverra nisi.\r\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \r\nfinibus ex tellus, eget cursus tellus ultrices ut. sed \r\ncommodo lacus orci, vel interdum massa facilisis vel. ut \r\nlacinia finibus mauris et aliquam. ut vitae augue ac \r\nsapien rhoncus consequat. phasellus cursus ut arcu quis \r\nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \r\narcu lacus, eu eleifend massa mattis ac. vestibulum \r\nelementum, sem ut mollis tincidunt, nulla felis egestas \r\nnunc, id tempor justo sapien facilisis odio. aenean \r\nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [
+    4,
+    4,
+    4
+  ],
+  "pdfFile": "1701189726837-femmes_du_silence.pdf",
+  "category": "romance",
+  "author": "béatrice dumont",
+  "date": {
+    "$date": "2023-11-28T16:42:06.845Z"
+  },
+  "publish_year": "2013",
+  "pages": 200,
+  "image": "1701189726833-femme-de-silence-S-R.png",
+  "userId": {
+    "$oid": "6552358671789dec97e0065d"
+  },
+  "comments": [
+    {
+      "pseudo": "edouard",
+      "comment": "Not bad ",
+      "date": {
+        "$date": "2023-11-28T16:48:42.727Z"
+      },
+      "_id": {
+        "$oid": "656619ea9c9727d2370a116b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2023-11-28T16:42:06.854Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-28T16:48:42.727Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65661d0d33f2b1610b5b870b"
+  },
+  "title": "conquest of flames",
+  "mini_description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. \r\nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \r\nluctus. aliquam sit amet eros eu ligula bibendum \r\nvestibulum. donec non turpis elit. vestibulum at arcu sit \r\namet velit dictum posuere vel eget tellus. donec nec \r\nmolestie nisi. integer finibus quis ante eget placerat. \r\naliquam varius viverra nisi.\r\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \r\nfinibus ex tellus, eget cursus tellus ultrices ut. sed \r\ncommodo lacus orci, vel interdum massa facilisis vel. ut \r\nlacinia finibus mauris et aliquam. ut vitae augue ac \r\nsapien rhoncus consequat. phasellus cursus ut arcu quis \r\nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \r\narcu lacus, eu eleifend massa mattis ac. vestibulum \r\nelementum, sem ut mollis tincidunt, nulla felis egestas \r\nnunc, id tempor justo sapien facilisis odio. aenean \r\nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [],
+  "pdfFile": "1701190925473-conquest_of_flames.pdf",
+  "category": "motivational",
+  "author": "jack mars",
+  "date": {
+    "$date": "2023-11-28T17:02:05.482Z"
+  },
+  "publish_year": "2020",
+  "pages": 200,
+  "image": "1701190925468-conquest-of-flames-S-F.png",
+  "userId": {
+    "$oid": "6552358671789dec97e0065d"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-11-28T17:02:05.491Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-28T17:02:05.491Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65662bef33f2b1610b5b8ada"
+  },
+  "title": "in the woods",
+  "mini_description": "there is no one who loves pain itself, who seeks after \r\nit and wants to have it, simply because it is pain...\"\r\nlorem ipsum dolor sit amet, consectetur adipiscing elit. \r\nmorbi quis blandit eros. ut dictum nibh eu nulla pulvinar \r\nluctus. aliquam sit amet eros eu ligula bibendum \r\nvestibulum. donec non turpis elit. vestibulum at arcu sit \r\namet velit dictum posuere vel eget tellus. donec nec \r\nmolestie nisi. integer finibus quis ante eget placerat. \r\naliquam varius viverra nisi.\r\nmaecenas sit amet suscipit ex, non sagittis risus. morbi \r\nfinibus ex tellus, eget cursus tellus ultrices ut. sed \r\ncommodo lacus orci, vel interdum massa facilisis vel. ut \r\nlacinia finibus mauris et aliquam. ut vitae augue ac \r\nsapien rhoncus consequat. phasellus cursus ut arcu quis \r\nfaucibus. ut pulvinar at erat in vehicula. aliquam ultricies \r\narcu lacus, eu eleifend massa mattis ac. vestibulum \r\nelementum, sem ut mollis tincidunt, nulla felis egestas \r\nnunc, id tempor justo sapien facilisis odio. aenean \r\nimperdiet libero sit amet nunc finibus egestas vitae et ",
+  "notes": [],
+  "pdfFile": "1701194735624-in_the_woods.pdf",
+  "category": "mystery",
+  "author": "olivia wilson",
+  "date": {
+    "$date": "2023-11-28T18:05:35.635Z"
+  },
+  "publish_year": "2003",
+  "pages": 203,
+  "image": "1701194735619-in-the-woods-S-H.png",
+  "userId": {
+    "$oid": "6552358671789dec97e0065d"
+  },
+  "comments": [],
+  "createdAt": {
+    "$date": "2023-11-28T18:05:35.637Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-28T18:05:35.637Z"
+  },
+  "__v": 0
+}]
