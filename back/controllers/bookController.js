@@ -213,54 +213,5 @@ export const SearchBooks = async (req,res) => {
   }
 }
 
-// // still working on it 
 
-// ///////////////////////////            add a book   to wishlist        /////////////////////////
-
-// export const AddToWishList = async (req,res) => {
-//   try {
-//     const { userId, bookId } = req.body;
-//     const user = await User.findById(userId).exec();
-//     const book = await Book.findById(bookId).exec();
-//     if (user && book) {
-//       await User.updateOne({ _id: userId }, { $push: { wishlist: bookId } });
-//       res.json({ message: 'book added to wishlist' });
-//     } else {
-//       res.json({ message: 'user or book not found' });
-//     }
-//  } catch (err) {
-//     res.status(500).json({ message: err.message });
-//  }
-// };
-
-
-
-
-
-// this controller will be in the next update 
-
-
-// ///////////////////////////            Borrow a book            /////////////////////////
-
-// export const BorrowBook = async (req, res) => {
-//   try{
-//     const book = await Book.findById(req.params.id);
-//     const user = await User.findById(req.body.id);
-//     if(!book || !user){
-//       return res.status(404).json({message: "Book or User not found"});
-//     }
-//     if(!book.availability){
-//       return res.status(400).json({message: "Book not available"})
-//     }
-//     book.availability = false;
-//     await book.save();
-
-//     user.borrowedBooks.push(book._id);
-//     await user.save();
-
-//     res.json({message: "book borrowed"});
-//   }catch(err){
-//     res.status(500).json({message: err.message})
-//   }
-// }
 
