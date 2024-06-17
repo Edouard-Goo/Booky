@@ -1,12 +1,9 @@
 import express from "express";
 import {
-  // AddBookForUser,
   AddBookSubmit,
-  // AddToWishList,
   BookByUser,
   BookCategories,
   BookDetails,
-  // BorrowBook,
   DeleteBook,
   GetBook,
   SearchBooks,
@@ -71,13 +68,6 @@ booksRouter.get("/categories", BookCategories);
 //Search Books 
 booksRouter.get("/search", SearchBooks);
 
-//this route and its controller will be in the next update of the website/////////////////////////////
-// /// Borrow book
-// booksRouter.post("/borrow/:id", isLogged, BorrowBook)
 
-
-//still working on this one 
-//// book to wishlist 
-// booksRouter.post("/add-to-wishlist/:id", isLogged, AddToWishList)
 
 export default booksRouter;
